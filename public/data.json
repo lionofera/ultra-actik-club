@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "name": "Walking",
+        "time": "30",
+        "image": "https://www.freepik.com/free-photo/health-activity-wellbeing-age-people-concept-self-determined-active-bearded-european-man-his-sixties-walking-fast-while-trekking-mountain-forest-having-confident-focused-look_11161398.htm#query=walking&position=7&from_view=search&track=sph"
+    },
+    {
+        "id": "02",
+        "name": "Swimming",
+        "time": "20",
+        "image": "https://www.freepik.com/free-photo/close-up-man-swimming_11305916.htm#query=swimming&position=4&from_view=search&track=sph"
+    },
+    {
+        "id": "03",
+        "name": "Jogging",
+        "time": "20",
+        "image": "https://www.freepik.com/free-photo/silhouette-young-fitness-man-running-sunrise_5212275.htm#query=jogging&position=6&from_view=search&track=sph"
+    },
+    {
+        "id": "04",
+        "name": "Learning",
+        "time": "90",
+        "image": "https://www.freepik.com/free-photo/photo-concentrated-redhead-bearded-student-preparing-university-exam-cafe_7439726.htm#query=studying&position=12&from_view=search&track=sph"
+    },
+    {
+        "id": "05",
+        "name": "Cooking",
+        "time": "60",
+        "image": "https://www.freepik.com/free-photo/chef-cutting-vegetable-preparing-salade_17080779.htm#query=cooking&position=4&from_view=search&track=sph"
+    },
+    {
+        "id": "06",
+        "name": "Shopping",
+        "time": "60",
+        "image": "https://www.freepik.com/free-vector/man-shopping-supermarket_9650074.htm#query=shopping&position=44&from_view=search&track=sph"
+    },
+    {
+        "id": "07",
+        "name": "Socializing",
+        "time": "90",
+        "image": "https://www.freepik.com/free-photo/people-meeting-seminar-office-concept_19140568.htm#query=socializng&position=16&from_view=search&track=ais"
+    },
+    {
+        "id": "08",
+        "name": "Gardening",
+        "time": "60",
+        "image": "https://www.freepik.com/free-photo/beautiful-woman-works-garden-near-house_5251382.htm#query=gardening&position=14&from_view=search&track=sph"
+    },
+    {
+        "id": "09",
+        "name": "Playing",
+        "time": "60",
+        "image": "https://www.freepik.com/free-photo/children-s-silhouettes-playing-sunset_931370.htm#query=playing&position=42&from_view=search&track=sph"
+    }
+]

@@ -1,0 +1,16 @@
+.activity img {
+    width: 250px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.activity {
+    border: 2px solid rgb(116, 115, 115);
+    border-radius: 10px;
+}
+.btn-activity {
+    width: 100%;
+    background-color: bisque;
+    border-radius: 0 0 10px 10px;
+    border: none;
+}
